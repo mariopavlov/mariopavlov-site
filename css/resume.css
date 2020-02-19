@@ -150,3 +150,7 @@ a:hover, a:focus, a:active {
   border-left: 4px dotted #BD5D38;
   padding: 1em;
 }
+
+.rating-checked {
+  color: orange;
+}
